@@ -23,6 +23,6 @@ A full-stack web application designed to manage internships, built with **Spring
 * Java & Spring Boot
 * Spring Data JPA / Hibernate
 * Spring Security (JWT authentication)
-* MySQL / PostgreSQL (Database)
+* MySQL  (Database)
 
 ---
